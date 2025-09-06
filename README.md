@@ -220,7 +220,7 @@ FROM hourly_sales
 GROUP BY shift
 ```
 
-## Answers (if applicable):
+## Answers:
 1. **Find all sales made on November 5, 2022.**:
    11 Sales
 2. **Find all transactions where the category is "clothing", the quantity is at least 4, and the dates are November 2022.**:
