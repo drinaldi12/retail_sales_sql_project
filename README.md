@@ -221,10 +221,16 @@ GROUP BY shift
 ```
 
 ## Answers (if applicable):
+1. **Find all sales made on November 5, 2022.**:
+   11 Sales
+2. **Find all transactions where the category is "clothing", the quantity is at least 4, and the dates are November 2022.**:
+   17 Transcactions
 3. **Calculate the total sales for each category.**:
    Beauty - 611, Clothing - 698, Electronics - 678
 4. **Find the average age of customers who purchased items from the "Beauty" category.**:
    40.42 years
+5. **Find all transactions where the total sales are greater than 1000.**:
+   306 Transactions
 6. **Find the total number of transactions made by each gender in each category.**:
    Beauty/Female - 330, Beauty/Male - 281, Clothing/ Female - 347, Clothing/Male - 351, Electronics/Female - 335, Electronics/Male - 343
 7. **Calculate the average sale for each month. Use this to find the best-selling month for each year.**:
