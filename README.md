@@ -242,6 +242,7 @@ GROUP BY shift
 10. **Find the number of orders per shift (Morning - before 12pm, Afternoon - 12pm-5pm, Evening - after 5pm).**:
     Morning - 548, Afternoon - 377, Evening - 1062
 
+## Findings:
 - **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
 - **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
 - **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
